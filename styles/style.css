@@ -361,7 +361,7 @@ header {
 }
 
 .subscribe__title {
-    margin: 20px;
+    margin: 0
 }
 
 .subscribe__form {
@@ -381,7 +381,7 @@ header {
 }
 
 .subscribe__button {
-    margin-top: 2vw;
+    margin-bottom: 20px;
 }
 
 footer {
@@ -717,11 +717,13 @@ footer {
     }
 
     .subscribe__title {
-        font-size: 1.4rem
+        font-size: 1.4rem;
+        margin: 0
     }
 
     .subscribe__par {
-        font-size: 0.6rem
+        font-size: 0.6rem;
+        margin: 0
     }
 
     .subscribe__container {
@@ -733,9 +735,6 @@ footer {
         font-size: 10px
     }
 
-    .subscribe__button {
-        margin-top: 3vh
-    }
 }
 
 
