@@ -329,7 +329,7 @@ header {
     width: 70%
 }
 
-/* footer */
+/* Subscribe */
 
 .subscribe {
     margin-top: 60px;
@@ -743,12 +743,24 @@ footer {
         font-size: 0.4rem
     }
 
+    header {
+        height: 500px;
+    }
+
     .header__container {
         margin: 60% 10vw 0 10vw;
     }
 
+    .header__image {
+        height: 500px;
+    }
+
     .components__button {
         width: 90%
+    }
+
+    .features__aside--left {
+        display: none;
     }
 
     .subscribe__button {
