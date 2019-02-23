@@ -1,1 +1,1 @@
- https://doominiks.github.io/Bicycle-PSD/
+ https://doominiks.github.io/Bicycle/
